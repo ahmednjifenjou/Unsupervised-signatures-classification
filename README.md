@@ -1,6 +1,6 @@
 # Unsupervised-signatures-classification
 
-Ce projet académique, réalisé de zéro, dans le cadre d'un cours de CLustering a pour but d'étudier deux(02) méthodes de Classification non supervisée: K-means, Ascencion Hiérarchique 
+Ce projet académique, réalisé de zéro, dans le cadre d'un cours de Clustering a pour but d'étudier deux(02) méthodes de Classification non supervisée: K-means, Ascencion Hiérarchique 
 
 # Contexte
 
